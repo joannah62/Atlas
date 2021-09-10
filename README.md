@@ -43,7 +43,7 @@ We also decided to change the name of a few countries to their more commonly-kno
 
 ### Deployment
 
-For our database, we used [ElephantSQL](https://www.elephantsql.com/) ...........
+For our database, we used [ElephantSQL](https://www.elephantsql.com/) .
 
 ## Backend: How we set up our backend
 
@@ -57,7 +57,7 @@ We used cookies in the backend for dealing with user authorisation, to keep trac
 
 ### Deployment
 
-For our backend, we used [heroku](https://heroku.com/home) ...........
+For our backend, we used [heroku](https://heroku.com/home) .
 
 ## Frontend: How we set up our frontend
 
@@ -70,7 +70,7 @@ Some of the packages we used (for installation):
 
 ### Deployment
 
-For our frontend, we used [netlify](https://www.netlify.com) ...........
+For our frontend, we used [netlify](https://www.netlify.com) .
 
 ## Extra: What if we had more time?
 
@@ -79,3 +79,5 @@ For our frontend, we used [netlify](https://www.netlify.com) ...........
 - More bonus questions, i.e. naming neighbouring countries, official/main languages, population sizes, etc.
 - Difficulty settings
 - Anything else you can think of? Do let us know! :smiley:
+
+## The deployed application is available at https://www.playatlasgame.com/
